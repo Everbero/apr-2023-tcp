@@ -7,4 +7,4 @@ graph TB;
     listen["LISTEN"]
 
     listen -->|CLOSE| closed
-```s
+```
